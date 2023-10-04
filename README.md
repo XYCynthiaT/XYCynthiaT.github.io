@@ -5,7 +5,9 @@
 - Alzheimer Study 📊 Cynthia
 
   1. RNA-seq 👉 [shiny app](https://xctang.shinyapps.io/Alzheimer/)
-  2. HDL lipid composition 👉 [report](https://xycynthiat.github.io/Chromatogram/)
+
+- HDL untargeted lipidome 🥑 Joanne
+  1. quantification & lipid composition 👉 [report](https://xycynthiat.github.io/Chromatogram/)
 
 - Fasting Study 🔬 Chris
  
