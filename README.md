@@ -4,7 +4,7 @@
 
 - Alzheimer Study 📊 Cynthia
 
-  1. RNA-seq 👉 [shiny app](https://xctang.shinyapps.io/Alzheimer/)
+  1. RNA-seq 👉 [shiny app](https://zivkovic-shiny.shinyapps.io/Alzheimer/)
 
 - HDL untargeted lipidome 🥑 Joanne
   1. quantification & lipid composition 👉 [report](https://xycynthiat.github.io/Chromatogram/)
@@ -19,17 +19,19 @@
 
 - Fiber Study 🔬 Jea Woo
  
-  1. Fiber study 👉 [shiny app](https://xctang.shinyapps.io/USANA/)
+  1. Fiber study 👉 [shiny app](https://zivkovic-shiny.shinyapps.io/USANA/)
 
 - Jennyfer's study
  
-  1. Case study 👉 [report](https://zivkoviclab.shinyapps.io/case_study_mg/)
+  1. Case study 👉 [report](https://zivkovic-shiny.shinyapps.io/case_study_mg/)
    
-  2. AD serum study 👉 [report](https://zivkoviclab.shinyapps.io/serum_glc/)
+  2. AD serum biomarker discovery 👉 [report](https://zivkovic-shiny.shinyapps.io/serum_glc/)
   
-  3. 11 brain regions 👉 [report](https://zivkoviclab.shinyapps.io/11-brain-regions/)
+  3. 11 brain regions 👉 [report](https://zivkovic-shiny.shinyapps.io/11_brain_regions/)
   
-  4. plasma glc 👉 [shiny app](https://zivkoviclab.shinyapps.io/plasma-glc/)
+  4. plasma glc 👉 [shiny app](https://zivkovic-shiny.shinyapps.io/plasma-glc/)
+ 
+  5. AD pilot study 👉 [shiny app](https://zivkovic-shiny.shinyapps.io/AD-pilot-study/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
